@@ -10,9 +10,13 @@ body {
 }
 
 /* Add styles here! */
+html {
+  font-size: 1.125rem;
+}
+
 header {
   padding-block: 48px;
-  font-size: 1.25rem;
+  /*font-size: 1.25rem;*/
 }
 
 main {
